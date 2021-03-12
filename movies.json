@@ -1,0 +1,54 @@
+{
+    "movies":[
+       {
+          "id":"287947",
+          "movieName":"Shazam!",
+          "description":"A boy is given the ability to become an adult superhero in times of need with a single magic word."
+       },
+       {
+          "id":"299537",
+          "movieName":"Captain Marvel",
+          "description":"The story follows Carol Danvers as she becomes one of the universe’s most powerful heroes when Earth is caught in the middle of a galactic war between two alien races. Set in the 1990s, Captain Marvel is an all-new adventure from a previously unseen period in the history of the Marvel Cinematic Universe."
+       },
+       {
+          "id":"522681",
+          "movieName":"Escape Room",
+          "description":"Six strangers find themselves in circumstances beyond their control, and must use their wits to survive."
+       },
+       {
+          "id":"166428",
+          "movieName":"How to Train Your Dragon: The Hidden World",
+          "description":"As Hiccup fulfills his dream of creating a peaceful dragon utopia, Toothless’ discovery of an untamed, elusive mate draws the Night Fury away. When danger mounts at home and Hiccup’s reign as village chief is tested, both dragon and rider must make impossible decisions to save their kind."
+       },
+       {
+          "id":"450465",
+          "movieName":"Glass",
+          "description":"In a series of escalating encounters, security guard David Dunn uses his supernatural abilities to track Kevin Wendell Crumb, a disturbed man who has twenty-four personalities. Meanwhile, the shadowy presence of Elijah Price emerges as an orchestrator who holds secrets critical to both men."
+       },
+       {
+          "id":"495925",
+          "movieName":"Doraemon the Movie: Nobita's Treasure Island",
+          "description":"The story is based on Robert Louis Stevenson's Treasure Island novel."
+       },
+       {
+          "id":"329996",
+          "movieName":"Dumbo",
+          "description":"A young elephant, whose oversized ears enable him to fly, helps save a struggling circus, but when the circus plans a new venture, Dumbo and his friends discover dark secrets beneath its shiny veneer."
+       },
+       {
+          "id":"299536",
+          "movieName":"Avengers: Infinity War",
+          "description":"As the Avengers and their allies have continued to protect the world from threats too large for any one hero to handle, a new danger has emerged from the cosmic shadows: Thanos. A despot of intergalactic infamy, his goal is to collect all six Infinity Stones, artifacts of unimaginable power, and use them to inflict his twisted will on all of reality. Everything the Avengers have fought for has led up to this moment - the fate of Earth and existence itself has never been more uncertain."
+       },
+       {
+          "id":"458723",
+          "movieName":"Us",
+          "description":"Husband and wife Gabe and Adelaide Wilson take their kids to their beach house expecting to unplug and unwind with friends. But as night descends, their serenity turns to tension and chaos when some shocking visitors arrive uninvited."
+       },
+       {
+          "id":"424783",
+          "movieName":"Bumblebee",
+          "description":"On the run in the year 1987, Bumblebee finds refuge in a junkyard in a small Californian beach town. Charlie, on the cusp of turning 18 and trying to find her place in the world, discovers Bumblebee, battle-scarred and broken.  When Charlie revives him, she quickly learns this is no ordinary yellow VW bug."
+       }
+    ]
+ }
